@@ -24,7 +24,7 @@ public class Decrypt {
 	            }
 	            return "\nTeksti i dekriptuar: " + (plaintext);
 	        } else {
-	            return "\nCiphertext-i që dëshironi të dekriptoni duhet të përmbajë vetëm numra!";
+	            return "\nCiphertext-i që do te dëshironi të dekriptoni duhet të përmbajë vetëm numra!";
 	        }
 	    }
 	
