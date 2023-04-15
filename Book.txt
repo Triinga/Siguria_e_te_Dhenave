@@ -1,28 +1,30 @@
-Authentication is a term which is used    and often abused  in a very broad sense  By itself
-it has little meaning other than to convey the idea that some means has been provided to
+Authentication is a term which is used    and often abused  in a very broad sense  By itself it has
+little meaning other than to convey the idea that some means has been provided to
 guarantee that entities are who they claim to be   or that information has not been manipulated by
- unauthorized parties  Authentication is specific to the security objective which
+unauthorized parties  Authentication is specific to the security objective which
 one is trying to achieve  Examples of specific objectives include access control   entity authentication
-message authentication   data integrity   non   repudiation   and key authentication  These instances of authentication are dealt with at length in Chapters 9 through 13
+message authentication   data integrity   non   repudiation   and
+key authentication  These instances of authentication are dealt with at length in Chapters 9 through 13
 For the purposes of this chapter   it suffices to give a brief introduction to authentication by
 describing several of the most obvious applications
-Authentication is one of the most important of all information security objectives  Until the mid
-s it was generally believed that secrecy and authentication were intrinsically
+Authentication is one of the most important of all information security objectives  Until the mids
+it was generally believed that secrecy and authentication were intrinsically
 connected  With the discovery of hash functions and digital signatures it was
 realized that secrecy and authentication were truly separate and independent information
 security objectives  It may at first not seem important to separate the two but there are
- situations where it is not only useful but essential  For example   if a two   party communication
-between Alice and Bob is to take place where Alice is in one country and Bob in another
-the host countries might not permit secrecy on the channel     one or both countries might
+situations where it is not only useful but essential  For example   if a two   party communication
+between Alice and Bob is to take place where Alice is in one country and Bob in another the
+host countries might not permit secrecy on the channel     one or both countries might
 want the ability to monitor all communications  Alice and Bob   however   would like to be
 assured of the identity of each other   and of the integrity and origin of the information they
 send and receive
 The preceding scenario illustrates several independent aspects of authentication  If Alice
- and Bob desire assurance of each other  s identity   there are two possibilities to consider
+and Bob desire assurance of each other  s identity   there are two possibilities to consider
 Alice and Bob could be communicating with no appreciable time delay  That is   they
 are both active in the communication in    real time
- Alice or Bob could be exchanging messages with some delay  That is   messages
-might be routed through various networks   stored   and forwarded at some later time
+Alice or Bob could be exchanging messages with some delay  That is   messages
+might be routed through
+various networks   stored   and forwarded at some later time
 In the first instance Alice and Bob would want to verify identities in real time  This
 might be accomplished by Alice sending Bob some challenge   to which Bob is the only
 entity which can respond correctly  Bob could perform a similar action to identify Alice
@@ -38,14 +40,18 @@ and limited use by the Egyptians some 4000 years ago   to the twentieth century 
 played a crucial role in the outcome of both world wars  Completed in 1963   Kahn  s book
 covers those aspects of the history which were most significant    up to that time  to the development of the subject
 The predominant practitioners of the art were those associated with
-the military   the diplomatic service and government in general  Cryptography was used as
+just the military   the diplomatic service and government in general  Cryptography was used as
 a tool to protect national secrets and strategies
 The proliferation of computers and communications systems in the 1960s brought with
 it a demand from the private sector for means to protect information in digital form and to
 provide security services  Beginning with the work of Feistel at IBM in the early 1970s and
 culminating in 1977 with the adoption as a U S  Federal Information Processing Standard
 for encrypting unclassified information   DES   the Data Encryption Standard   is the most
-well   known cryptographic mechanism in history  It remains the standard means for securing electronic commerce for many financial institutions around the world
+well known cryptographic mechanism in history  It remains the standard means for securing electronic commerce for many financial institutions around the world
 The most striking development in the history of cryptography came in 1976 when Diffie
 and Hellman published New Directions in Cryptography This paper introduced the revolutionary concept of public   key cryptography and also provided a new and ingenious method
+quest
+xing
+youth country developemnt
+zodiac signs
 
