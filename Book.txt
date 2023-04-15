@@ -22,14 +22,12 @@ The preceding scenario illustrates several independent aspects of authentication
 and Bob desire assurance of each other  s identity   there are two possibilities to consider
 Alice and Bob could be communicating with no appreciable time delay  That is   they
 are both active in the communication in    real time
-Alice or Bob could be exchanging messages with some delay  That is   messages
-might be routed through
+Alice or Bob could be exchanging messages with some delay  That is   messages might be routed through
 various networks   stored   and forwarded at some later time
 In the first instance Alice and Bob would want to verify identities in real time  This
 might be accomplished by Alice sending Bob some challenge   to which Bob is the only
 entity which can respond correctly  Bob could perform a similar action to identify Alice
-This type of authentication is commonly referred to as entity authentication or more simply
-identification
+This type of authentication is commonly referred to as entity authentication or more simply identification
 For the second possibility   it is not convenient to challenge and await response   and
 moreover the communication path may be only in one direction  Different techniques are
 now required to authenticate the originator of the message  This form of authentication is
@@ -47,11 +45,9 @@ it a demand from the private sector for means to protect information in digital 
 provide security services  Beginning with the work of Feistel at IBM in the early 1970s and
 culminating in 1977 with the adoption as a U S  Federal Information Processing Standard
 for encrypting unclassified information   DES   the Data Encryption Standard   is the most
-well known cryptographic mechanism in history  It remains the standard means for securing electronic commerce for many financial institutions around the world
+well known cryptographic mechanism in history  It remains the standard means for securing 
+electronic commerce for many financial institutions around the world
 The most striking development in the history of cryptography came in 1976 when Diffie
-and Hellman published New Directions in Cryptography This paper introduced the revolutionary concept of public   key cryptography and also provided a new and ingenious method
-quest
-xing
-youth country developemnt
-zodiac signs
+and Hellman published New Directions in Cryptography This paper introduced the revolutionary concept of public  
+key cryptography and also provided a new and ingenious method quest xing youth country developemnt zodiac signs
 
