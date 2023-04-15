@@ -12,11 +12,6 @@ public class Main {
        System.out.print("\n--- Ky është algoritmi i enkriptimit/dekriptimit të Beale Ciphers që përdor një dokument teksti si libër!---\n\n");
      System.out.print("--- Ky algoritëm mbështet këto operacione: \n encrypt - për të enkriptuar mesazhin  \n decrypt - për të dekriptuar mesazhin \n" +
                      " stop - për të ndalur ekzekutimin e funksionit \n");
-
-
-
-
-      
        System.out.print("\n Shtyp operacionin: ");
        String answer = input.nextLine().toLowerCase();
        answer = answer.replaceAll(" ", "");
