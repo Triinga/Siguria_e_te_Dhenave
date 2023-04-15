@@ -9,7 +9,6 @@ public class Encrypt {
         if (plaintext.length() == 0) {
             return "\nJu lutem shkruani tekstin e thjeshtë që dëshironi të enkriptoni.";
         }
-
         if (Pattern.matches("[a-zA-Z0-9 ]+", plaintext)) {
             char[] plaintextArray = plaintext.replaceAll(" ", "").toCharArray();
             String[] splitedKey = key.split(" ");
