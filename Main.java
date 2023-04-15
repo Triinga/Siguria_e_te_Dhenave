@@ -61,7 +61,7 @@ public class Main {
              fileReader.close();
 
          } catch (FileNotFoundException e) {
-             System.err.println("\nNdodhi një gabim. Sistemi nuk mund ta gjejë skedarin e specifikuar.\n");
+             System.err.println("\nNdodhi një gabim. Sistemi nuk mund ta gjejë file të specifikuar.\n");
              e.printStackTrace();
              System.exit(1);
          }
