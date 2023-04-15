@@ -41,6 +41,34 @@ public class Main {
           
            input.close();
        }
+ 
+ 
+   public static String readFile() {
+
+       String addNumber = "";
+
+       try {
+           File file = new File("C:\\Users\\valtr\\OneDrive\\Desktop\\Siguria-e-te-Dhenave-main\\book.txt");
+           Scanner fileReader = new Scanner(file);
+           while (fileReader.hasNextLine()) {
+                 String text = fileReader.nextLine().toLowerCase();
+                 String[] arrayOfText = text.split(" ");
+                 int count = 1;
+                 for (int i = 0; i < arrayOfText.length; i++, count++) {
+                     addNumber += (arrayOfText[i] + count + " ");
+                 }
+             }
+             fileReader.close();
+
+         } catch (FileNotFoundException e) {
+             System.err.println("\nNdodhi një gabim. Sistemi nuk mund ta gjejë skedarin e specifikuar.\n");
+             e.printStackTrace();
+             System.exit(1);
+         }
+         return addNumber;
+
+  }
+  }
        
    
 
