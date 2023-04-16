@@ -5,6 +5,8 @@ Një burrë i quajtur Thomas J. Beale fshehu një thesar prej ari dhe argjendi d
 
 Tregtari nuk arriti t'a dekriptonte, më pas i mbajti ato për dekada përpara se t'ia kalonte një miku të paidentifikuar para vdekjes së tij. Miku i paidentifikuar kaloi njëzet vjet të tjera duke u përpjekur të zbulonte enkriptimet (duke arritur të i zgjidhte dy nga tre mesazhet e koduara). Përfundimisht, miku publikoi enkriptimet dhe historinë e thesarit të Beale në 1885.
 
+Shifra Beale është një shifër në të cilën dy palë bien dakord për një çelës që është një tekst (p.sh., Deklarata e Pavarësisë që u përdor nga Thomas Beale si çelës për një nga tre tekstet e tij të koduara), dhe fjalët në tekst më pas numërohen dhe teksti i enkriptuar përbëhet nga numra prej çelësit. Numrat do të zëvendësohen më pas me shkronjën e parë të fjalës nga teksti-celes kur teksti i shifruar është duke u deshifruar.
+
 Pra, si funksionon enkriptimi?
 
 Me një libër të caktuar, zgjidhni një faqe të caktuar dhe numëroni të gjitha fjalët në faqe.
