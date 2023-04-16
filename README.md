@@ -3,7 +3,7 @@ Beale Cipher
 
 Një burrë i quajtur Thomas J. Beale fshehu një thesar prej ari dhe argjendi diku në Bedford, Virxhinia, në fillim të viteve 1800. Më pas Beale kodoi vendndodhjen e thesarit, përmbajtjen e thesarit dhe emrat e atyre që dëshironte të kishte thesarin. Thomas kodoi 3 dokumente, në të cilat njëri prej tyre ishte i zgjidhur, duke zbuluar përmbajtjen e thesarit. Dy të tjerët mbetën sekret (vendndodhja e thesarit dhe emrat e pronarëve dhe të afërmve të thesarit). Beale ia dorëzoi ato enkriptime një tregtari, më pas u zhduk dhe nuk u pa më. 
 
-Tregtari nuk arriti t'a dekriptonte, më pas i mbajti ato për dekada përpara se t'ia kalonte një miku të paidentifikuar para vdekjes së tij. Miku i paidentifikuar kaloi njëzet vjet të tjera duke u përpjekur të zbulonte enkriptimet (duke arritur të i zgjidhte dy nga tre mesazhet e koduara). Përfundimisht, miku publikoi enkriptimet dhe historinë e thesarit të Bealnëe 1885.
+Tregtari nuk arriti t'a dekriptonte, më pas i mbajti ato për dekada përpara se t'ia kalonte një miku të paidentifikuar para vdekjes së tij. Miku i paidentifikuar kaloi njëzet vjet të tjera duke u përpjekur të zbulonte enkriptimet (duke arritur të i zgjidhte dy nga tre mesazhet e koduara). Përfundimisht, miku publikoi enkriptimet dhe historinë e thesarit të Beale në 1885.
 
 Pra, si funksionon enkriptimi?
 
